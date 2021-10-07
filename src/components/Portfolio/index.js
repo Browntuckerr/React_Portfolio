@@ -7,6 +7,7 @@ const Portfolio = ()=>{
             </h1>
             <Project title="DealSella" gitHubLink="https://github.com/Browntuckerr/SteamAPIproject" deployedLink="https://browntuckerr.github.io/SteamAPIproject/"/>
             <Project title="FullStackWorkout" gitHubLink="https://github.com/Browntuckerr/FullStackWorkout" deployedLink="https://github.com/Browntuckerr/FullStackWorkout"/>
+            <Project title ="Supreme Booking" gitHubLink="https://github.com/Aswebilius/supreme-booking" deployedLink= "https://project3-supreme-bookings.herokuapp.com/"/>
         </div>
     )
 
